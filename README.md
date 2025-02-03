@@ -1,5 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm INAAM ULLAH</h1>
-<h3 align="center">A passionate Full-stack polyglot ninja monkey</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+👋,+I'm+INAAM+ULLAH" alt="Typing Animation">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=600&lines=A+passionate+Full-Stack+polyglot+Ninja+Monkey" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inaam-ullah&theme=dark&hide_border=false" alt="GitHub Streak">
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -266,6 +275,7 @@
 </span>
 
 ### <u> Operating Systems and Others:</u>
+
 <span>
   <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
 </span>
