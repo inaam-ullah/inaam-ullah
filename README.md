@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+👋,+I'm+INAAM+ULLAH" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=f077f2&center=true&width=435&lines=Hi+👋,+I'm+INAAM+ULLAH" alt="Typing Animation">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=600&lines=A+passionate+Full-Stack+polyglot+Ninja+Monkey" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f077f2&center=true&width=600&lines=A+passionate+Full-Stack+polyglot+Ninja+Monkey" alt="Typing SVG">
 </p>
 
 <p align="center">
